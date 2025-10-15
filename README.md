@@ -2,10 +2,6 @@
 
 First, run the development server:
 
-```.env
-NEXT_PUBLIC_COMPANY_NAME=default
-```
-
 ```bash
 npm run dev
 ```
